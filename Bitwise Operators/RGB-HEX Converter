@@ -1,4 +1,4 @@
-# This was program created using Python 2, and converts RGB to HEX and vice versa.
+# This is a program that converts RGB to HEX and vice versa. It was created using Python 2.
 
 def rgb_hex():
   invalid_msg = "You've entered an invalid value!"

@@ -1,4 +1,4 @@
-# This is a program that checks the DNA of suspects to see who's innocent or guilty.
+# This is a program that checks the DNA of suspects to see who's innocent or guilty using Python 2.
 
 sample = ['GTA','GGG','CAC']
 

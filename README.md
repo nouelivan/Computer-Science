@@ -1,8 +1,3 @@
 # Computer-Science
 
-Hello 👋 
-
-* I'm a former (about a year of experience) automation engineer teaching myself the ins and outs of coding.
-* Currently I'm working on mastering my computer science (Data Structures & Algorithms, Databases, Computer Architecture, and Discreete Math) related knowledge.
-* Possess the Python 2 and Computer Science certificates from Codecademy and working on others.
-* Loving the process!
+This repository is is filled with several different projects pertaining to computer science related subjects. This includes computer architecture, databases, discrete mathematics, data structures & algorithms, and Python (Both 2 and 3).

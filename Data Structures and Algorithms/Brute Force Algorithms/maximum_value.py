@@ -1,0 +1,24 @@
+# This program finds the highest number in a list using a linear search algorithm.
+
+# Search list
+test_scores = [88, 93, 75, 100, 80, 67, 71, 92, 90, 83]
+
+#Linear Search Algorithm
+def linear_search(search_list):
+  maximum_score_index = None
+  for idx in range(len(search_list)):
+    if maximum_score_index == None:
+      maximum_score_index = idx
+    else:
+      if search_list[maximum_score_index] < search_list[idx]:
+        maximum_score_index = idx
+    
+  return maximum_score_index
+  
+
+# Function call
+highest_score = linear_search(test_scores)
+
+#Prints out the highest number in the list.
+print(highest_score)
+

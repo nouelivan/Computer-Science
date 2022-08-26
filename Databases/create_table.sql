@@ -40,3 +40,4 @@ DELETE FROM friends
 WHERE id = 1;
 
 SELECT * FROM friends;
+

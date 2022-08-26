@@ -1,4 +1,4 @@
-/* Table creation and alterations. */
+-- Table creation and alterations.
 
 
 CREATE TABLE friends (
